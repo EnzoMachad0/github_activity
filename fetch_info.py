@@ -1,3 +1,10 @@
+"""
+HOW TO USE:
+
+        python fetch_info.py --name=<username>
+
+"""
+
 import click
 import requests
 
